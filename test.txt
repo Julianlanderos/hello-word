@@ -1,0 +1,1 @@
+Esta es una prueba de carga de archivo a git, sirve como prueba del commit inicial, ahorita que estoy aprendiendo a manejar git y ser mas pro que mis maestros
